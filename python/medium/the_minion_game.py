@@ -1,45 +1,24 @@
 # The Minion Game
 
-VOWELS = 'A E I O U'.split()
-
-class Player:
-    def __init__(self, name):
-        self.name = name
-        self.score = 0
-        self.substrings = set()
-
-    def __str__(self):
-        return f'{self.name} {self.score}'
-
-    def add_score(self, score):
-        self.score += score
-
-    def add_substring(self, substring):
-        self.substrings = self.substrings | set([substring]) - set([''])
+VOWELS = ['A', 'E', 'I', 'O', 'U']
 
 def minion_game(string):
-    stuart = Player('Stuart')
-    kevin = Player('Kevin')
+    stuart = 0
+    kevin = 0
+    length = len(string)
 
-    substrings = lambda substring: sum(1 for i in range(0, len(string)-len(substring)+1) if string[i:i+len(substring)] == substring)
-
-    for initial_letter in range(len(string)):
-        
-        if string[initial_letter] not in VOWELS:
-            # Stuart
-            for range_substring in range(initial_letter, len(string)+1):
-                stuart.add_substring(string[initial_letter:range_substring])
+    for i, char in enumerate(string):
+        if char in VOWELS:
+            kevin += length - i
         else:
-            # Kevin
-            for range_substring in range(initial_letter, len(string)+1):
-                kevin.add_substring(string[initial_letter:range_substring])
-    else:
-        print(stuart.substrings)
-        print(kevin.substrings)
-        stuart.add_score(sum(substrings(substring) for substring in stuart.substrings))
-        kevin.add_score(sum(substrings(substring) for substring in kevin.substrings)) 
+            stuart += length - i
 
-    print(stuart if stuart.score > kevin.score else kevin)
+    if stuart > kevin:
+        print(f'Stuart {stuart}')
+    elif kevin > stuart:
+        print(f'Kevin {kevin}')
+    else:
+        print('Draw')
 
 if __name__ == '__main__':
     s = input()
