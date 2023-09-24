@@ -1,2 +1,5 @@
 # The file that displays the pattern of the directory
 tree.txt
+
+# Executable files
+main
