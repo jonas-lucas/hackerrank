@@ -4,6 +4,7 @@
 .
 ├── c
 │   └── easy
+│       ├── functions.c
 │       ├── hello-world.c
 │       ├── playing-with-caraters.c
 │       └── sum-and-difference.c
