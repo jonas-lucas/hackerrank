@@ -12,6 +12,7 @@
     └── medium
         ├── find_angle_mbc.py
         ├── merge_the_tools.py
+        ├── no_idea.py
         ├── the_minion_game.py
         └── time_delta.py
 ```
