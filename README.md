@@ -3,16 +3,15 @@
 ```
 .
 ├── c
-│   └── easy
+│   └── easy    (5)
 │       ├── functions.c
 │       ├── hello-world.c
 │       ├── playing-with-caraters.c
-│       └── sum-and-difference.c
+│       └── ...
 └── python
-    └── medium
+    └── medium  (5)
         ├── find_angle_mbc.py
         ├── merge_the_tools.py
         ├── no_idea.py
-        ├── the_minion_game.py
-        └── time_delta.py
+        └── ...
 ```
