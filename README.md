@@ -9,7 +9,7 @@
 │       ├── playing-with-caraters.c
 │       └── ...
 └── python
-    └── medium  (5)
+    └── medium  (6)
         ├── find_angle_mbc.py
         ├── merge_the_tools.py
         ├── no_idea.py
