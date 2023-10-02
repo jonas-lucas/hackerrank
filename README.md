@@ -3,10 +3,10 @@
 ```
 .
 ├── c
-│   └── easy    (5)
+│   └── easy    (6)
+│       ├── conditional.c
 │       ├── functions.c
 │       ├── hello-world.c
-│       ├── playing-with-caraters.c
 │       └── ...
 └── python
     └── medium  (6)
