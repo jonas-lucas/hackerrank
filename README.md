@@ -9,9 +9,9 @@
 │       ├── hello-world.c
 │       └── ...
 └── python
-    └── medium  (6)
+    └── medium  (7)
+        ├── compress_string.py
         ├── find_angle_mbc.py
         ├── merge_the_tools.py
-        ├── no_idea.py
         └── ...
 ```
