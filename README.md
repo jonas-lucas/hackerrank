@@ -3,7 +3,7 @@
 ```
 .
 ├── c
-│   └── easy    (6)
+│   └── easy    (7)
 │       ├── conditional.c
 │       ├── functions.c
 │       ├── hello-world.c
