@@ -3,10 +3,10 @@
 ```
 .
 ├── c
-│   └── easy    (8)
+│   └── easy    (9)
+│       ├── bitwise-operators.c
 │       ├── conditional.c
 │       ├── functions.c
-│       ├── hello-world.c
 │       └── ...
 └── python
     └── medium  (9)
