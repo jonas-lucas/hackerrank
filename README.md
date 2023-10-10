@@ -9,7 +9,7 @@
 │       ├── functions.c
 │       └── ...
 └── python
-    └── medium  (9)
+    └── medium  (10)
         ├── company_logo.py
         ├── compress_string.py
         ├── find_angle_mbc.py
