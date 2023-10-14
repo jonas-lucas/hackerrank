@@ -8,10 +8,13 @@
 │   │   ├── conditional.c
 │   │   ├── functions.c
 │   │   └── ...
-│   └── medium  (2)
+│   └── medium  (3)
 │       ├── d1-array.c
+│       ├── main
 │       └── square.c
 └── python
+    ├── hard    (1)
+    │   └── maximize_it.py
     └── medium  (12)
         ├── company_logo.py
         ├── compress_string.py
