@@ -9,8 +9,8 @@
 │   │   ├── functions.c
 │   │   └── ...
 │   └── medium  (3)
+│       ├── array-reversal.c
 │       ├── d1-array.c
-│       ├── main
 │       └── square.c
 └── python
     ├── hard    (1)
