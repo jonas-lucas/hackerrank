@@ -15,7 +15,7 @@
 └── python
     ├── hard    (1)
     │   └── maximize_it.py
-    └── medium  (12)
+    └── medium  (13)
         ├── company_logo.py
         ├── compress_string.py
         ├── find_angle_mbc.py
