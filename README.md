@@ -8,10 +8,11 @@
 │   │   ├── conditional.c
 │   │   ├── functions.c
 │   │   └── ...
-│   └── medium  (3)
+│   └── medium  (4)
 │       ├── array-reversal.c
 │       ├── d1-array.c
-│       └── square.c
+│       ├── printing-tokens.c
+│       └── ...
 └── python
     ├── hard    (1)
     │   └── maximize_it.py
