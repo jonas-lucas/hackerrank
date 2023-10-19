@@ -8,15 +8,15 @@
 │   │   ├── conditional.c
 │   │   ├── functions.c
 │   │   └── ...
-│   └── medium  (4)
+│   └── medium  (5)
 │       ├── array-reversal.c
 │       ├── d1-array.c
-│       ├── printing-tokens.c
+│       ├── digit-frequency.c
 │       └── ...
 └── python
     ├── hard    (1)
     │   └── maximize_it.py
-    └── medium  (13)
+    └── medium  (14)
         ├── company_logo.py
         ├── complex.py
         ├── compress_string.py
