@@ -8,7 +8,7 @@
 │   │   ├── conditional.c
 │   │   ├── functions.c
 │   │   └── ...
-│   └── medium  (5)
+│   └── medium  (6)
 │       ├── array-reversal.c
 │       ├── d1-array.c
 │       ├── digit-frequency.c
