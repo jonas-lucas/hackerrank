@@ -3,10 +3,10 @@
 ```
 .
 ├── c
-│   ├── easy    (9)
+│   ├── easy    (10)
 │   │   ├── bitwise-operators.c
+│   │   ├── calculate-nth-term.c
 │   │   ├── conditional.c
-│   │   ├── functions.c
 │   │   └── ...
 │   └── medium  (6)
 │       ├── array-reversal.c
