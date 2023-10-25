@@ -3,7 +3,7 @@
 ```
 .
 ├── c
-│   ├── easy    (10)
+│   ├── easy    (11)
 │   │   ├── bitwise-operators.c
 │   │   ├── calculate-nth-term.c
 │   │   ├── conditional.c
