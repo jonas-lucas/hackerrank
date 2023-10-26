@@ -16,7 +16,7 @@
 └── python
     ├── hard    (1)
     │   └── maximize_it.py
-    └── medium  (17)
+    └── medium  (18)
         ├── athlete_sort.py
         ├── company_logo.py
         ├── complex.py
