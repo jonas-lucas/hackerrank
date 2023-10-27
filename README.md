@@ -8,6 +8,8 @@
 │   │   ├── calculate-nth-term.c
 │   │   ├── conditional.c
 │   │   └── ...
+│   ├── hard    (1)
+│   │   └── sorting-array-of-strings.c
 │   └── medium  (6)
 │       ├── array-reversal.c
 │       ├── d1-array.c
