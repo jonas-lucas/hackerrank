@@ -10,7 +10,7 @@
 │   │   └── ...
 │   ├── hard    (1)
 │   │   └── sorting-array-of-strings.c
-│   └── medium  (6)
+│   └── medium  (7)
 │       ├── array-reversal.c
 │       ├── d1-array.c
 │       ├── digit-frequency.c
